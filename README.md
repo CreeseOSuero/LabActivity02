@@ -1,1 +1,3 @@
-# LabActivity02
+- This is a Laboratory Activity on Modules 2.1-2.4 and Modules 3.1 and 3.2
+- The topics covered in this activity are basic html and tables
+- Respository : https://github.com/CreeseOSuero/ComputerScience3
